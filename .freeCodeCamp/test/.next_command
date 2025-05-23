@@ -64,3 +64,4 @@ nano script.sh
 echo ihsan
 echo ihsan
 echo ihsan
+./script.sh < name.txt
