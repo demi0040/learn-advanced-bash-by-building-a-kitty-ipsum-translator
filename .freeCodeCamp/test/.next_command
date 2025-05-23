@@ -65,3 +65,4 @@ echo ihsan
 echo ihsan
 echo ihsan
 ./script.sh < name.txt
+./script.sh < name.txt 2> stderr.txt
