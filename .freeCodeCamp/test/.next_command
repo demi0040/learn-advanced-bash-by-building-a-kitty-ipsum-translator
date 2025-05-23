@@ -59,3 +59,4 @@ touch script.sh
 chmod +x script.sh
 echo
 nano script.sh
+./script.sh
