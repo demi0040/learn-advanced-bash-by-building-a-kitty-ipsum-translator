@@ -51,3 +51,4 @@ echo $NAME
 echo ihsan
 echo $NAME
 cat
+cat name.txt
