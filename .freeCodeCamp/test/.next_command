@@ -55,3 +55,4 @@ cat name.txt
 cat < name.txt
 echo $NAME
 echo ihsan
+touch script.sh
