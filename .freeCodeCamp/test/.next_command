@@ -60,3 +60,5 @@ chmod +x script.sh
 echo
 nano script.sh
 ./script.sh
+./script.sh ihsan
+echo ihsan
