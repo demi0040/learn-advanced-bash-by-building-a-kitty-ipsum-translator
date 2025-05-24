@@ -195,3 +195,4 @@ clear
 echo 'cat "$1" | sed "s/catnip/dogchow/g"' >> translate.sh
 nano translate.sh
 nano translate.sh
+./translate.sh kitty_ipsum_1.txt
