@@ -184,3 +184,5 @@ grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 touch translate.sh
 chmod +x translate.sh
 echo '#!/bin/bash' >> translate.sh
+echo 'cat "$1"' >> translate.sh
+nano translate.sh
