@@ -199,3 +199,6 @@ nano translate.sh
 ./translate.sh kitty_ipsum_1.txt
 __vsc_prompt_cmd_original
 ./translate.sh kitty_ipsum_1.txt
+sed -i 's/catnip/dogchow/g; s/cat/dog/g' translate.sh
+nano translate.sh
+nano translate.sh
