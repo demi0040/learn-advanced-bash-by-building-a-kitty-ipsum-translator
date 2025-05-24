@@ -207,3 +207,5 @@ clear
 ./translate.sh kitty_ipsum_1.txt
 sed -i 's/catnip/dogchow/g; s/cat/dog/g; s/meow[a-z]*/woof/g' translate.sh
 nano translate.sh
+clear
+./translate.sh kitty_ipsum_1.txt
