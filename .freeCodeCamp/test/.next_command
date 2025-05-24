@@ -213,3 +213,5 @@ clear
 nano translate.sh
 ./translate.sh kitty_ipsum_1.txt
 nano translate.sh
+clear
+./translate.sh kitty_ipsum_1.txt
